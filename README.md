@@ -29,7 +29,6 @@ As a user, I can:
 * Create environment variables
 * Use this JSON file for the server DB <https://moringa.instructure.com/courses/185/files/152618?wrap=1>
 
-```
 ### Author:
    * **Daryl Wattima** - *Initial work* - [Wattima](<https://github.com/Wattima>)
 
